@@ -9,12 +9,12 @@ All projects were built in a production environment alongside senior developers.
 
 ## 📂 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Denge Tablosu](./denge-tablosu.md) | AI-powered financial management dashboard | React, Node.js, OpenAI, MySQL |
-| [ChatbotEnco](./chatbotenco.md) | — | — |
-| [EncoTask](./encotask.md) | — | — |
-| [Enco Dijital Kart](./enco-dijital-kart.md) | — | — |
-| [Yapay Zeka Destekli Finansal Denetim](./yapay-zeka-finansal-denetim.md) | — | — |
+| Project | Description | Stack | Role |
+|---|---|---|---|
+| [Denge Tablosu](./denge-tablosu.md) | Finansal yönetim paneli + AI asistan | React, Node.js, OpenAI, MySQL | Chatbot modülü |
+| [ChatbotEnco](./chatbotenco.md) | Kurumsal AI chatbot platformu | NestJS, Next.js, PostgreSQL, pgvector, Socket.io, Gemini | v2.0 tamamen ben |
+| [EncoTask](./encotask.md) | Takım proje yönetim uygulaması | React, Express, MySQL, @dnd-kit, Tiptap | Kanban, kapasite, yetkilendirme, dark mode |
+| [Enco Dijital Kart](./enco-dijital-kart.md) | Dijital kartvizit platformu | Next.js, Express, PostgreSQL, Prisma, Cloudinary | Sıfırdan geliştirdim |
+| [AIFO](./yapay-zeka-finansal-denetim.md) | Yapay zeka destekli finansal denetim aracı | React 19, Vite, Zustand, IndexedDB, Vitest, GitHub Actions | Monitoring, PDF export, CI pipeline |
 
 ---
